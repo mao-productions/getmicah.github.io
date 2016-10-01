@@ -1,12 +1,13 @@
 ---
 layout: default
+published: true
 ---
 
-<div class="blog">
+<div class="works">
     <ul>
         {% for post in site.posts %}
         <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.category }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
