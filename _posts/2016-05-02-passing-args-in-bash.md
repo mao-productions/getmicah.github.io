@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Passing Arguments in Shell Script
+title: Passing Arguments in Shell
+published: true
+category: installation
 ---
 
 **TL;DR** Just skip to the [good part](#the-good-part)
