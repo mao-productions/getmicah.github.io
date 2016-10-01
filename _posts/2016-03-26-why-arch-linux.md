@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why I use Arch Linux
+published: true
+category: documentation of show
 ---
 
 
