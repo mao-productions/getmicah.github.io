@@ -1,6 +1,8 @@
 ---
 layout: post
-title: The Basics of Ricing Linux
+title: The Basics of Ricing
+published: true
+category: documentation
 ---
 
 **TL;DR** Here are my [dotfiles](https://github.com/getmicah/dotfiles).
