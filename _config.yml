@@ -1,5 +1,5 @@
 # Blog settings
-permalink: /works/:title
+permalink: /works/:categories/:title
 
 
 # My variables
