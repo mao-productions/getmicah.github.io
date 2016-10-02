@@ -6,9 +6,9 @@ published: true
 ## Biography
 *1982, Southend-on-Sea, United Kingdom. Lives and works in Stockholm, Sweden
 ## Education
-- 2005-2007 Städel Schule, Frankfurt-am-Main 
-- 2002-2005 Glasgow School of Arts, Glasgow 
-- 2001-2002 Falmouth College of Arts, Falmouth
+* 2005-2007 Städel Schule, Frankfurt-am-Main 
+* 2002-2005 Glasgow School of Arts, Glasgow 
+* 2001-2002 Falmouth College of Arts, Falmouth
 ## Permanent Commissions
 - 2016 'audio poems: distracted listening', sound and photographic installation (commissioned by Statens Konstråd)
 - 2013 'Tiles & Tides', reception desk commission for Focal Point Gallery, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea)
