@@ -1,11 +1,158 @@
 ---
 layout: about
+published: true
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
-
-# What do you do?
-I make websites and stuff. All the code I write is on my [Github](https://github.com/getmicah).
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+## Biography
+*1982, Southend-on-Sea, United Kingdom. Lives and works in Stockholm, Sweden
+## Education
+2005-2007 Städel Schule, Frankfurt-am-Main 2002-2005 Glasgow School of Arts, Glasgow 2001-2002 Falmouth College of Arts, Falmouth
+Permanent Commissions
+2016 'audio poems: distracted listening', sound and photographic installation (commissioned by Statens Konstråd)
+2013 'Tiles & Tides', reception desk commission for Focal Point Gallery, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea)
+Site-specific Sound Commissions
+2014 'The Artist and The Gravedigger: after D.O. Hill', commission for 'Observers' Walks' sound work series (commissioned by Collective Gallery, Edinburgh)
+2012 'Capitol Complex' commission for the exhibition 'To the moon via the beach', Amphitheatre of Arles, Provence (commissioned by LUMA Foundation)
+## Prizes and Awards
+2014 Turner Prize (shortlisted)
+2012 Hugo Boss Prize (shortlisted)
+2008 Baloise Art Prize, Art | 39 | Basel (with T293, Naples) 2008 Ars Viva Prize
+Monograph publications
+2013 'Capitol Complex / Ulterior Vistas' (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
+2011 'Tris Vonna-Michell' (book), published by JRP|Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
+2009 'Finding Chopin Endnotes' (book), published by Jeu de Paume, Paris
+2009 'Monumental Detours / Insignificant Fixtures' (12 inch vinyl), published by GAMEC Bergamo and Kunsthalle Zürich
+2007 'Tall tales and short stories' (7 inch vinyl), published by Witte de With, Rotterdam
+## Solo Exhibitions
+2016 T293, Rome (upcoming)
+2015 'Wasteful Illuminations: Distracted Listening', Jan Mot, Brussels
+2015 'Capitol Complex', Appleton Square, Lisbon
+2015 'Tris Vonna-Michell', Overduin & Co., Los Angeles
+2015 'Tris Vonna-Michell', Presentation House Gallery, Vancouver
+2014 'Turner Prize 2014', Tate Britain, London
+2014 'Postscript III (Berlin)', Metro Pictures, New York
+2014 'Capitol Complex', TPW, Toronto
+2014 'Tris Vonna-Michell', VOX Centre de l’image contemporaine, Montreal
+2013 'Postscript II (Berlin)', Jan Mot, Brussels
+2013 'Pebble Dash', T293, Rome
+2013 'Capitol Complex', Jan Mot, Mexico City
+2012 'Ulterior Vistas', BALTIC Centre for Contemporary Art, Gateshead (in collaboration with Inheritance Projects)
+2011 'Tris Vonna-Michell', Metro Pictures, New York
+2010 'Wasteful Illuminations', T293, Naples
+2010 'Not a Solitary Sign or Inscription to Even Suggest an Ending', Overduin and Kite, Los Angeles 2010 'Tris Vonna-Michell', Capitain Petzel, Berlin
+2010 'No more racing in circles - just pacing within lines of a rectangle', Focal Point Gallery, Southend- on-Sea
+ 2009 'Capstans', Halle fur Kunst, Lüneburg
+2009 'Finding Chopin: Endnotes', Jeu de Paume, Paris
+2009 'Tris Vonna-Michell', Tensta Konsthall, Stockholm
+2009 'Auto-Tracking: Ongoing Configurations', Jan Mot, Brussels
+2009 'Tris Vonna-Michell', X Initiative, New York
+2009 'Auto-Tracking-Auto-Tracking', Kunsthalle Zurich, Zurich
+2009 'Studio A: Monumental Detours / Insignificant Fixtures', GAMeC, Bergamo 2008 'Tris Vonna-Michell', Cabinet Gallery, London
+2008 'Auto-Tracking', Kunsthalle Zurich, Zurich
+2008 'The Trades of Others', T293, Naples
+2007 'Tall Tales and Short Stories', Cubitt, London
+2007 'Puzzlers', Kunstverein Braunschweig Cuboid, Braunschweig
+2007 'Tris Vonna-Michell', Witte de With, Rotterdam
+2006 'Faire un effort', Palais des Beaux-Arts, Brussels
+2006 'Down the Rabbit-Hole', Milliken Gallery, Stockholm
+Group Exhibitions and Performances
+2016 ‘Par tibi, Roma, nihil’, Palatino archeological area, Rome
+2016 ‘VI x VI Positionen zur Zukunft der Fotografie’, Landesgalerie Linz, Linz
+2016 ‘... und eine Welt noch’, Kunsthaus Hamburg, Hamburg
+2016 ‘Poésie Balistique’, La Verrière - Hermès Foundation, Brussels
+2016 ‘This Is Your Replacement’, Sies + Höhe, Dusseldorf
+2016 ‘New-Self-Portrait-Paradox', MINI/Goethe-Institut Curatorial Residencies Ludlow 38, New York 2015 ‘A story within a story’, 8th Göteborg International Biennial for Contemporary Art (GIBCA)
+2015 ‘The day will come when photography revises’, Triennial of Photography, Kunstverein in Hamburg 2015 'Digital Voices', Oxford University Library and Language Centre, Oxford
+2014 'Society Acts - The Moderna Exhibition 2014', Moderna Museet, Malmö
+2014 'Against the grain', Centre de la photographie, Genève
+2014 'T293-in-residence', Sadie Coles HQ, London
+2014 'Un Nouveau Festival', Centre Pompidou, Paris
+2014 'Return Journey', MOSTYN, Wales
+2013 'The Story Behind', NoguerasBlanchard, Barcelona
+2013 'Lecture-Performance: New Artistic Formats, Places, Practices and Behaviours', MUSAC - Museo de Arte Contemporáneo de Castilla y León, León
+2013 'Unrest of Form. Imagining the Political Subject', Secession, Vienna
+2013 'I knOw yoU', IMMA – Irish Museum of Modern Art, Dublin
+2013 'The Butterfly Image', Mudam, Luxembourg
+2013 'Only here', Art and Exhibition Hall of the Federal Republic of Germany, Bonn
+2012 'Reactivation', 9th Shanghai Biennial, Shanghai
+2012 'CARA DOMANI opere dalla Collezione Ernesto Esposito', MAMbo, Bologna
+2012 'Storytelling as Craft', Kentucky Museum of Art and Craft, Louisville
+2012 'Ephemeropterae~', TBA21 Augarten, Vienna (performance)
+2012 'Swans, Amputees', Fondation Cartier, Paris (performance)
+2012 'Searching for the fountain', Moderna Museet, Stockholm
+2012 'Soundworks', ICA, London
+2012 'Setting the Scene', Tate Modern, London
+2012 'OEI/Letterism', Moderna Museet, Stockholm (performance)
+2012 'Descriptive Acts', San Francisco MOMA, San Francisco
+2012 'enfolds: books I & II', Mount Analogue, Stockholm
+2012 'Never odd or even', Museum of Contemporary Art, Roskilde (performance)
+2011 'Balustrade: endless tapes', Milliken Gallery, Stockholm
+2011 Fotofestival 4, Mannheim, Ludwigshafen, Heidelberg
+2011 'Folk Variations', Radar, Loughborough (performance)
+2011 'The Other Tradition', Wiels, Brussels
+2011 La Casa Encendida, Madrid (performance)
+2011 'Subtext Part II', Un Projects, Melbourne
+2011 'British Art Show 7: In the Days of the Comet', touring; Nottingham Contemporary, Hayward Gallery, London, Glasgow Centre for Contemporary Art, and Plymouth Arts Centre
+2010 'New Frankfurt Internationals', Frankfurter Kunstverein, Frankfurt
+2010 FRAC Champagne-Ardenne, Troyes
+ 2010 'Fun Palace', Centre Pompidou, Paris
+2010 'Manifesta 8', Murcia, Spain
+2010 'Exhibition, Exhibition', Catello di Rivoli Museo d’Arte Contemporanea, Rivoli
+2010 'Performance', Museo Marino Marini, Florence (performance)
+2010 'Balustrade', Julia Stoschek Foundation, Dusseldorf (performance)
+2010 'Haunted: Contemporary Photography/Video/Performance', Guggenheim Museum, New York (performance)
+2010 'Finding Chopin', performance Witte de With, Center for Contemporary Art, Rotterdam (performance)
+2010 'NineteenEightyFour', Austrian Cultural Forum, New York
+2010 'ACT VII: Of Facts and Fables', Witte de With, Center for Contemporary Art, Rotterdam
+2010 'Leipzig Calendar Works', Project Kaufhaus Joske, Leipzig (performance)
+2010 'A Performance Cycle', Nomas Foundation, Rome (performance)
+2009 'Lecture Performance', Cologne Kunstverein, Cologne (performance)
+2009 'Accecare l'ascolto / Aveugler l'ecoute / Blinding the ears', Artissima, Turin (performance)
+2009 '5x5 Castello 09', Espai d'art contemporani de Castello EACC, Valencia
+2009 'This World & Nearer Ones', Creative Time, New York (performance)
+2009 'Ars viva 08/09. Inszenierung / Mise en scene', Atelier Augarten Contemporary, Vienna
+2009 'Spatial Works', Färgfabriken, Stockholm
+2009 'Critical applause 3: Tris Vonna-Michell', CCA, Glasgow (performance)
+2009 'Finding Chopin', Hamburger Kunsthalle, Hamburg
+2009 'Art Cologne / Open Space' (with Cabinet), London
+2009 'The Generational: Younger than Jesus', New Museum, New York
+2009 'Just in the dark/Solo al buio', Mercati di Traiano, Rome
+2009 'The Front Room', Contemporary Art Museum, Saint Louis
+2009 'Ars viva 08/09. Inszenierung / Mise en scene', Museum Abteiberg, Mönchengladbach
+2009 'The Space of Words', Mudam Musee d'Art Moderne Grand-Due Jean, Luxembourg
+2009 'I Repeat Myself When Under Stress', MOCAD Museum of Contemporary Art, Detroit
+2009 'Iaspis Open House', Iaspis, Stockholm
+2009 'Altermodern: Tate Triennial', Tate Britain, London
+2009 'A spoken word exhibition', BALTIC Centre for Contemporary Art Gateshead, Gateshead
+2008 'Speak and Spell', performance at Vienna Art Week, Vienna (performance)
+2008 'Storyteller - Organizing Time and Space', 0047, Oslo
+2008 'Lieber Kunstler, erzahle mir!', Kunstverein Hildesheim, Hildesheim
+2008 'Stone-Paper-Scissors', Hebbel am Ufer (HAU), Berlin (performance)
+2008 'Kunst Im Heim', Capitain Petzel, Berlin
+2008 'Ars viva 08/09. Inszenierung / Mise en scene', Museum im Kulturspeicher, Würzburg
+2008 'Bending the Word / MATRIX 226', BAM/PFA - UC Berkeley Art Museum, Berkeley
+2008 'Time Crevasse', Yokohama Triennial 2008, Yokohama
+2008 'ICA:60 Past, Present and Future', performance at ICA - Institute of Contemporary Arts, London 2008 'Fia Backstrom: That social space between speaking and meaning', White Columns, New York (performance)
+2008 'The Store', Tulips & Roses, Vilnius
+2008 'Experiment Marathon Reykjavik', Reykjavik Art Museum, Reykjavik
+2008 'Oral Culture', performance at Jan Mot, Brussels (performance)
+2008 'Tate Triennial 2009 Prologue 1', Tate Britain, London (performance)
+2008 'Self-Storage', CCA - California College of the Arts, Metro Self Storage, San Francisco
+2008 'Of this Tale, I cannot Guarantee A Single Word', Royal College of Art, London
+2008 '5th Berlin Biennial', KW Institute for Contemporary Art, Berlin
+2007 'Monumental Detours / Insignificant Fixtures', performance at KW Institute for Contemporary Art, Berlin (performance)
+2007 'Performa 07', The second Visual Art Performance Biennial, New York (performance)
+2007 'Playground', Stuk Performance Festival, Leuven
+2007 'The Year of the Human Sciences', performance at Hebbel am Ufer (HAU), Berlin (performance) 2007 'Experiment Marathon', Serpentine Gallery, London (performance)
+2007 'Floating Territories', Evens Foundation, Transbiennial Project, Istanbul and Athens (performance) 2007 'The Present Order', Museum de Hallen, Haarlem
+2007 'The Moment You Realise You Are Lost', Johann Konig, Berlin
+2007 'Köln Show2', European Kunsthalle, Cologne
+## Residencies
+2014 Darling Foundry, Montreal
+2012-2013 Mejan Residency, Royal Institute of Art, Stockholm
+2012 Inheritance projects Gibside and Baltic, Newcastle
+2012 Valand research center residency, Göteborg
+2011 Happy & Bob Doran Artist in Residence, Yale University Art Gallery, New Haven 2009 Focal Point Gallery Residency, Southend-on-Sea
+2008 Iaspis Residency, Stockholm
+## Curated projects
+2010 - ongoing 'Mount Analogue' 2008 'Three Minutes', Cubitt, London
