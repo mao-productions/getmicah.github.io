@@ -18,16 +18,19 @@ published: true
 ## Site-specific Sound Commissions
 - 2014 'The Artist and The Gravedigger: after D.O. Hill', commission for 'Observers' Walks' sound work series (commissioned by Collective Gallery, Edinburgh)
 - 2012 'Capitol Complex' commission for the exhibition 'To the moon via the beach', Amphitheatre of Arles, Provence (commissioned by LUMA Foundation)
+
 ## Prizes and Awards
 - 2014 Turner Prize (shortlisted)
 - 2012 Hugo Boss Prize (shortlisted)
 - 2008 Baloise Art Prize, Art | 39 | Basel (with T293, Naples) 2008 Ars Viva Prize
-Monograph publications
+
+## Monograph publications
 - 2013 'Capitol Complex / Ulterior Vistas' (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
 - 2011 'Tris Vonna-Michell' (book), published by JRP|Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
 - 2009 'Finding Chopin Endnotes' (book), published by Jeu de Paume, Paris
 - 2009 'Monumental Detours / Insignificant Fixtures' (12 inch vinyl), published by GAMEC Bergamo and Kunsthalle Zürich
 - 2007 'Tall tales and short stories' (7 inch vinyl), published by Witte de With, Rotterdam
+
 ## Solo Exhibitions
 - 2016 T293, Rome (upcoming)
 - 2015 'Wasteful Illuminations: Distracted Listening', Jan Mot, Brussels
@@ -61,6 +64,7 @@ Monograph publications
 - 2007 'Tris Vonna-Michell', Witte de With, Rotterdam
 - 2006 'Faire un effort', Palais des Beaux-Arts, Brussels
 - 2006 'Down the Rabbit-Hole', Milliken Gallery, Stockholm
+
 ## Group Exhibitions and Performances
 - 2016 ‘Par tibi, Roma, nihil’, Palatino archeological area, Rome
 - 2016 ‘VI x VI Positionen zur Zukunft der Fotografie’, Landesgalerie Linz, Linz
@@ -152,8 +156,8 @@ Monograph publications
 - 2007 'The Year of the Human Sciences', performance at Hebbel am Ufer (HAU), Berlin (performance) 2007 'Experiment Marathon', Serpentine Gallery, London (performance)
 - 2007 'Floating Territories', Evens Foundation, Transbiennial Project, Istanbul and Athens (performance) 2007 'The Present Order', Museum de Hallen, Haarlem
 - 2007 'The Moment You Realise You Are Lost', Johann Konig, Berlin
-- 2007
-'Köln Show2', European Kunsthalle, Cologne
+- 2007 'Köln Show2', European Kunsthalle, Cologne
+
 ## Residencies
 - 2014 Darling Foundry, Montreal
 - 2012-2013 Mejan Residency, Royal Institute of Art, Stockholm
@@ -161,5 +165,6 @@ Monograph publications
 - 2012 Valand research center residency, Göteborg
 - 2011 Happy & Bob Doran Artist in Residence, Yale University Art Gallery, New Haven 2009 Focal Point Gallery Residency, Southend-on-Sea
 - 2008 Iaspis Residency, Stockholm
+
 ## Curated projects
 - 2010 - ongoing 'Mount Analogue' 2008 'Three Minutes', Cubitt, London
