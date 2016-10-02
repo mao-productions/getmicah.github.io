@@ -1,10 +1,10 @@
 # Blog settings
-permalink: /works/:categories/:title
+permalink: /works/:category/:title
 
 
 # My variables
-name: your-name-here
-description: works and infos
+name: Tris Vonna-Michell
+description: Works and information
 google_verification: null
 
 
