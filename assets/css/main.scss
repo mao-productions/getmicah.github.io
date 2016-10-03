@@ -26,10 +26,11 @@ a {
 	text-decoration: none;
   }
   &:hover {
-	color: $color-link;
+	background-color: $color-link;
+    color: #d5dca5;
 	text-decoration: none;
 	padding-bottom: 1px;
-	border-bottom: 1px solid $color-link;
+	border-bottom: 1px solid #d5dca5;
   }
   &:active {
 	color: $color-link;
