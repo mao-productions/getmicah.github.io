@@ -4,7 +4,11 @@ published: true
 ---
 
 ## Biography
-*1982, Southend-on-Sea, United Kingdom. Lives and works in Stockholm, Sweden
+Lives and works in Stockholm. He stages installations and performs narrative structures, using spoken word, sound compositions, film and photography. Through live performances and installations, Vonna-Michell creates circuitous, multilayered narratives, characterized by fragments of information, detours, and repetitions.
+
+Recent solo exhibitions include: Presentation House Gallery, Vancouver (2015); Turner Prize 2014, Tate Britain, London; VOX, Centre de l’image contemporaine, Montreal (2014); Postscript II (Berlin), Jan Mot, Brussels (2013). Recent group exhibitions include: Par tibi, Roma, nihil, Palatino archeological area, Rome; VI x VI Positionen zur Zukunft der Fotografie, Landesgalerie Linz, Linz; … und eine Welt noch, Kunsthaus Hamburg, Hamburg (2016); A story within a story, 8th Göteborg International Biennial for Contemporary Art (2015); Society Acts - The Moderna Exhibition 2014, Moderna Museet, Malmö; Un Nouveau Festival, Centre Pompidou, Paris (2014).
+
+In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, curatorial and editorial agency and analogue studio: www.mountanalogue.org
 
 ## Education
 * 2005-2007 Städel Schule, Frankfurt-am-Main 
