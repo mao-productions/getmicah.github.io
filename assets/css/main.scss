@@ -152,14 +152,6 @@ ul {
 			line-height: 150%;
 			margin-bottom: 15px;
 		}
-		a {
-			padding-bottom: 1px;
-			border-bottom: 1px solid $color-link;
-			&:hover {
-				background-color: $color-grey;
-				text-decoration: none;
-			}
-		}
 		strong {
 			font-weight: 700;
 		}
