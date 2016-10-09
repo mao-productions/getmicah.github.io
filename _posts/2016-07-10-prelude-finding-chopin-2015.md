@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prelude: Finding Chopin, 2015 '
+title: 'Prelude: Finding Chopin, 2015'
 published: true
 ---
 

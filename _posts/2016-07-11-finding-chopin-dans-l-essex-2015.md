@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finding Chopin: Dans l’Essex, 2015 '
+title: 'Finding Chopin: Dans l’Essex, 2015'
 published: true
 ---
 
