@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Addendum I (Finding Chopin: Dans l'Essex), 2014'
+title: 'Addendum I (Finding Chopin, Dans l'Essex), 2014'
 published: true
 ---
 
