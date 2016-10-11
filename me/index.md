@@ -17,7 +17,7 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 
 ## Permanent Commissions
 * 2016 _audio poems: distracted listening_, sound and photographic installation (commissioned by Statens Konstråd)
-* 2013 _Tiles & Tides_, reception desk commission for Focal Point Gallery_, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea)
+* 2013 _Tiles & Tides_, reception desk commission for _Focal Point Gallery_, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea)
 
 ## Site-specific Sound Commissions
 * 2014 _The Artist and The Gravedigger: after D.O. Hill_, commission for 'Observers' Walks' sound work series (commissioned by Collective Gallery, Edinburgh)
@@ -104,14 +104,14 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2012 _enfolds: books I & II_, Mount Analogue, Stockholm
 - 2012 _Never odd or even_, Museum of Contemporary Art, Roskilde (performance)
 - 2011 _Balustrade: endless tapes_, Milliken Gallery, Stockholm
-- 2011 _Fotofestival 4, Mannheim, Ludwigshafen, Heidelberg
+- 2011 _Fotofestival 4_, Mannheim, Ludwigshafen, Heidelberg
 - 2011 _Folk Variations_, Radar, Loughborough (performance)
 - 2011 _The Other Tradition_, Wiels, Brussels
 - 2011 _La Casa Encendida, Madrid (performance)
 - 2011 _Subtext Part II_, Un Projects, Melbourne
 - 2011 _British Art Show 7: In the Days of the Comet_, touring; Nottingham Contemporary, Hayward Gallery, London, Glasgow Centre for Contemporary Art, and Plymouth Arts Centre
 - 2010 _New Frankfurt Internationals_, Frankfurter Kunstverein, Frankfurt
-- 2010 _FRAC Champagne-Ardenne, Troyes
+- 2010 _FRAC Champagne-Ardenne_, Troyes
 - 2010 _Fun Palace_, Centre Pompidou, Paris
 - 2010 _Manifesta 8_, Murcia, Spain
 - 2010 _Exhibition, Exhibition_, Catello di Rivoli Museo d’Arte Contemporanea, Rivoli
