@@ -31,7 +31,7 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 
 ## Monograph publications
 * 2013 _Capitol Complex / Ulterior Vistas_ (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
-* 2011 _Tris Vonna-Michell_ (book), published by JRP|Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
+* 2011 _Tris Vonna-Michell_ (book), published by JRP | Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
 * 2009 _Finding Chopin Endnotes_ (book), published by Jeu de Paume, Paris
 * 2009 _Monumental Detours / Insignificant Fixtures_ (12 inch vinyl), published by GAMEC Bergamo and Kunsthalle Zürich
 * 2007 _Tall tales and short stories_ (7 inch vinyl), published by Witte de With, Rotterdam
