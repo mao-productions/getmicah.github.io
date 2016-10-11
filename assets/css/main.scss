@@ -37,11 +37,13 @@ a {
 	text-decoration: none;
   }
 }
+em {
+	 font-style: italic;
+}
 ul {
-	list-style: none;
+	list-style: circle;
 	li {
 		padding: 5px;
-		padding-left: 10px;
 		@media screen and (max-width: $br) {
 			padding: 10px 0 10px 0;
 		}
@@ -105,7 +107,7 @@ ul {
 	padding-bottom: 30px;
 	&__back {
 		a {
-			
+
 		}
 	}
 	&__title {
