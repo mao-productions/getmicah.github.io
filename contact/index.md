@@ -5,12 +5,12 @@ published: true
 
 ## Contact
 
-
+<br/>
 tris@mountanalogue.org
 
-Mount Analogue
-Lundagatan 57
-117 28 Stockholm
+Mount Analogue<br/>
+Lundagatan 57<br/>
+117 28 Stockholm<br/>
 Sweden
 
 * [Analogue-Optics](http://www.analogue-optics.org "Analogue Optics")
