@@ -3,7 +3,8 @@ layout: about
 published: true
 ---
 
-# Contact
+## Contact
+
 
 tris@mountanalogue.org
 
