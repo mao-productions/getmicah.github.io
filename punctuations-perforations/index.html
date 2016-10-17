@@ -4,11 +4,12 @@ published: true
 ---
 
 <div class="works">
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+  <h1>Punctuations & Perforations, 2015-2016</h1>
+  <ul>
+    {% for post in site.categories.punctuations-perforations %}
+    {% if post.url %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
 </div>
