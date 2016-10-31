@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trades of Others, 2008'
-category: wasteful-illuminations
+category: wasteful
 published: true
 ---
 

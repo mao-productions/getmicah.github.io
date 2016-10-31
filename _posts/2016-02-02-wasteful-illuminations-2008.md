@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wasteful Illuminations, 2008'
-category: wasteful-illuminations
+category: wasteful
 published: true
 ---
 
