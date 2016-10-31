@@ -13,9 +13,8 @@ Lundagatan 57<br/>
 117 28 Stockholm<br/>
 Sweden
 
-* [Analogue-Optics](http://www.analogue-optics.org "Analogue Optics")
-* [Jan Mot, Brussels](http://www.janmot.com/tris_vonna_michell/index.php "Jan Mot")
-* [Metro Pictures, New York](http://www.metropictures.com/artists/tris-vonna-michell/ "Metro Pictures")
-* [Mount Analogue, Stockholm](www.mountanalogue.org "Mount Analogue")
-* [Overduin & Co., Los Angeles](http://www.overduinandco.com/archive/tris_vonna-michell/2015/installation.htm "Overduin Co")
-* [T293, Naples & Rome](http://www.t293.it/artists/tris-vonna-michell/ "T293")
+* <a href="http://www.janmot.com/tris_vonna_michell/index.php" target="_blank">Jan Mot, Brussels</a>
+* <a href="http://www.metropictures.com/artists/tris-vonna-michell" target="_blank">Metro Pictures, New York</a>
+* <a href="http://www.mountanalogue.org" target="_blank">Mount Analogue, Stockholm</a>
+* <a href="http://www.overduinandco.com/archive/tris_vonna-michell/2015/installation.htm" target="_blank">Overduin & Co., Los Angeles</a>
+* <a href="http://www.t293.it/artists/tris-vonna-michell/" target="_blank">T293, Naples & Rome</a>
