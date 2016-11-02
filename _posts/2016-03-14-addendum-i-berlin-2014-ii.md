@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Addendum I (Berlin), 2014'
+category: hahn-huhn
 published: true
 ---
 
