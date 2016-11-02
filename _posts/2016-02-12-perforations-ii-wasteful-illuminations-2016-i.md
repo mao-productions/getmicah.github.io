@@ -5,5 +5,5 @@ category: wasteful-illuminations
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2016_register_01.jpg)
+![punctuation.jpg]({{site.baseurl}}/assets/img/2016_perforations_II_wasteful_illuminations.jpg)
 Installation at Art Basel (with Jan Mot), 16 - 19 June 2016
