@@ -5,5 +5,5 @@ category: capitol-complex
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2016_scores_japan_01.jpg)
+![Tris Vonna-Michell - Capitol Complex, 2015]({{site.baseurl}}/assets/img/0507-capitol-complex-2014.jpg)
 Installation at Sadie Coles HQ, London, 1 - 31 May 2014 (photo by Todd White)

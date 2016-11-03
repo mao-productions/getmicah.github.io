@@ -5,5 +5,5 @@ category: capitol-complex
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2016_scores_japan_01.jpg)
+![Tris Vonna-Michell - Capitol Complex / Le Capitole de Chandigarh, 2014]({{site.baseurl}}/assets/img/0508-capitol-complex-le-capitole-de-chandigarh-2014.jpg)
 Film still
