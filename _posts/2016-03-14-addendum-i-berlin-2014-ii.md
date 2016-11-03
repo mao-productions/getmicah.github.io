@@ -5,5 +5,5 @@ category: hahn-huhn
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2014_Addendum_I_Berlin_02.jpg)
+![Tris Vonna-Michell - Addendum I (Berlin), 2014]({{site.baseurl}}/assets/img/0306-addendum-i-berlin-2014.jpg)
 Installation at Tate Britain, London, 30 September 2014 - 4 January 2015 (photo by Andy Keate)
