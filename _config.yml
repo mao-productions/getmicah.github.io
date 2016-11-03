@@ -25,3 +25,25 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
+# Picture tag responsive images
+picture:
+  source: "assets/img/_fullsize"
+  output: "generated"
+  markup: "picture"
+  presets:
+    default:
+      ...
+    main:
+      ...
+    gallery:
+      ppi: [1, 1.5]
+      attr:
+        class: "gallery-pict"
+        itemprop: "image"
+      source_medium:
+        media: "(min-width: 40em)"
+        width: "600"
+        height: "300"
+      source_default:
+        width: "300"

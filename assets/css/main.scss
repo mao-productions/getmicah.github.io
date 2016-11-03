@@ -61,7 +61,7 @@ ul {
 
 
 .wrapper {
-	max-width: 600px;
+	max-width: $br;
 	margin: auto;
 	padding: 60px 30px 60px 30px;
 	@media screen and (max-width: $br) {
@@ -75,7 +75,7 @@ ul {
 	justify-content: space-between;
 	align-items: baseline;
 	padding-bottom: 50px;
-	@media screen and (max-width: $br) {
+	@media screen and (max-width: 600px) {
 		display: block;
 	}
 	h1 {
