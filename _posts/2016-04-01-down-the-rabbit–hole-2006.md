@@ -5,5 +5,5 @@ category: finding-chopin
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2015_finding_chopin_dans_lessex_01.jpg)
+![Tris Vonna-Michell - Down the Rabbit–Hole, 2007]({{site.baseurl}}/assets/img/0417-down-the-rabbit-hole-2007.jpg)
 Installation at Milliken Gallery, Stockholm, 17 August - 9 September 2006
