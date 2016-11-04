@@ -10,4 +10,4 @@ Installation at Tate Britain, London, 30 September 2014 - 4 January 2015
 Photo by Andy Keate
 
 
-<iframe src="https://player.vimeo.com/video/187694255?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/187694255" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
