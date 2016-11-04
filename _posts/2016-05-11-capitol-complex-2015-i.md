@@ -7,3 +7,6 @@ published: true
 
 ![Tris Vonna-Michell - Capitol Complex, 2015]({{site.baseurl}}/assets/img/0502-capitol-complex-2015.jpg)
 Installation at Appleton Square, Lisbon, 25 June - 23 July 2015 (photo by MP)
+
+![Tris Vonna-Michell - Capitol Complex, 2015]({{site.baseurl}}/assets/img/0503-capitol-complex-2015.jpg)
+Installation at U-TURN Project Rooms, arteBA, Buenos Aires (with T293), 4 - 7 June 2015 (photo by Mariana Pena)
