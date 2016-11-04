@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Henri Chopin: Revue OU'
+title: 'Henri Chopin: Revue OU, 2008'
 category: finding-chopin
 published: true
 ---
