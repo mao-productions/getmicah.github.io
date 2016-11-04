@@ -5,5 +5,5 @@ category: ulterior-vistas
 published: true
 ---
 
-![punctuation.jpg]({{site.baseurl}}/assets/img/2016_perforations_II_wasteful_illuminations.jpg)
+![Tris Vonna-Michell - Prelude: Ulterior Vistas, 2013]({{site.baseurl}}/assets/img/0604-prelude-ulterior-vistas-2013.jpg)
 Installation at T293, Rome, 14 March - 4 May 2013 (photo by Roberto Apa)
