@@ -5,5 +5,4 @@ category: capitol-complex
 published: true
 ---
 
-![Tris Vonna-Michell - Capitol Complex / Le Capitole de Chandigarh, 2014]({{site.baseurl}}/assets/img/0508-capitol-complex-le-capitole-de-chandigarh-2014.jpg)
-Film still
+<iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
