@@ -5,7 +5,7 @@ published: true
 
 ## Texts
 
-<br/>**Rhythm of the Interval. Projection Circulation and Fragmentation of Images and Words in Tris Vonna-Michell’s Art practice by Lilian Haberer (2015)** [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-essay-by-Lilian-Haberer.pdf)<br/>
+<br/>**Rhythm of the Interval. Projection Circulation and Fragmentation of Images and Words in Tris Vonna-Michell’s Art practice by Lilian Haberer (2015)**<br/>
 Published in PhotoResearcher 57 No 24 | 2015
 
 **Notes on Finding Chopin: Dans l’Essex by Tris Vonna-Michell (2015)** [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-text-on-filming-Finding-Chopin-published-by-OEI.pdf)<br/>
