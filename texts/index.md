@@ -33,7 +33,7 @@ Mudam, Luxembourg
 **Tall Tales and Short Stories by Beatrix Ruf (2012)** [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-essay-by-Beatrix-Ruf-for-Hugo-Boss-Prize-2012-catalogue.pdf)<br/>
 Accompanied the Hugo Boss Prize 2012
 
-**Nothing is more dubious than this sentence by Elena Filipovic (2009)** [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-Jeu-de-Paume-Paris.pdf.pdf)<br/>
+**Nothing is more dubious than this sentence by Elena Filipovic (2009)** [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-Jeu-de-Paume-Paris.pdf)<br/>
 Accompanied the exhibition:<br/>
 Finding Chopin: Endnotes, 2005–2009<br/>
 20 October 2009 - 17 January 2010<br/>
