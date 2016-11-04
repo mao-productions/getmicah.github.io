@@ -7,29 +7,33 @@ published: true
 
 <iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Extract from “Capitol Complex / Le Capitole de Chandigarh” by Tris Vonna-Michell
+Extract from “Capitol Complex / Le Capitole de Chandigarh”<br/>
 16mm film transferred to HD video, 2014
 
-Director & Producer: Tris Vonna-Michell
-Co-Producer: Diana Kaur
-Cameraman: José Garcia-Lozano
-Lighting: José Garcia-Lozano
-Location Sound: José Garcia-Lozano
-Assistant Camera: Mathieu Grenier
-Editor: Lise Higham
-Sound Edit, Mix, Master: Doug Moffat
+
+Director & Producer: Tris Vonna-Michell<br/>
+Co-Producer: Diana Kaur<br/>
+Cameraman: José Garcia-Lozano<br/>
+Lighting: José Garcia-Lozano<br/>
+Location Sound: José Garcia-Lozano<br/>
+Assistant Camera: Mathieu Grenier<br/>
+Editor: Lise Higham<br/>
+Sound Edit, Mix, Master: Doug Moffat<br/>
 Colour Grading & Online Editing: Mauricio Salas
 
-Services:
-Analogue Optics, Stockholm
-John Salim Photographic, Southend-on-Sea
-Main Film, Montreal
-Mount Analogue, Stockholm
+
+Services:<br/>
+Analogue Optics, Stockholm<br/>
+John Salim Photographic, Southend-on-Sea<br/>
+Main Film, Montreal<br/>
+Mount Analogue, Stockholm<br/>
 PRIM - Productions Réalisations Indépendantes de Montréal, Montreal
 Vision Globale, Montreal
 
-Supported by:
+
+Supported by:<br/>
 Darling Foundry, Montreal
 
-Thanks to:
+
+Thanks to:<br/>
 VOX - Centre de l'image contemporaine, Montreal
