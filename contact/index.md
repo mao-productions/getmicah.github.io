@@ -13,7 +13,7 @@ Lundagatan 57<br/>
 117 28 Stockholm<br/>
 Sweden
 
-* <a href="http://franciscofino.com/" target="_blank">Galeria Franciso Fino, Lisbon</a>
+* <a href="http://franciscofino.com/" target="_blank">Galeria Francisco Fino, Lisbon</a>
 * <a href="http://www.janmot.com/tris_vonna_michell/index.php" target="_blank">Jan Mot, Brussels</a>
 * <a href="http://www.metropictures.com/artists/tris-vonna-michell" target="_blank">Metro Pictures, New York</a>
 * <a href="http://www.mountanalogue.org" target="_blank">Mount Analogue, Stockholm</a>
