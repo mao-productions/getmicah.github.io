@@ -17,7 +17,7 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 
 ## Permanent Commissions
 * 2016 _audio poems: distracted listening_, sound and photographic installation (commissioned by Statens Konstråd)
-* 2013 _Tiles & Tides_, reception desk commission for _Focal Point Gallery_, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea)
+* 2013 _Tiles & Tides_, reception desk commission for _Focal Point Gallery_, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea) [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-text-on-FPG-reception-desk-commission.pdf)
 
 ## Site-specific Sound Commissions
 * 2014 _The Artist and The Gravedigger: after D.O. Hill_, commission for 'Observers' Walks' sound work series (commissioned by Collective Gallery, Edinburgh)
