@@ -10,19 +10,6 @@ Recent solo exhibitions include: Presentation House Gallery, Vancouver (2015); T
 
 In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, curatorial and editorial agency and analogue studio: [www.mountanalogue.org](www.mountanalogue.org "Mount Analogue")
 
-## Education
-* 2005-2007 _Städel Schule_, Frankfurt-am-Main
-* 2002-2005 _Glasgow School of Arts_, Glasgow
-* 2001-2002 _Falmouth College of Arts_, Falmouth
-
-## Permanent Commissions
-* 2016 _audio poems: distracted listening_, sound and photographic installation (commissioned by Statens Konstråd)
-* 2013 _Tiles & Tides_, reception desk commission for _Focal Point Gallery_, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea) [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-text-on-FPG-reception-desk-commission.pdf)
-
-## Site-specific Sound Commissions
-* 2014 _The Artist and The Gravedigger: after D.O. Hill_, commission for 'Observers' Walks' sound work series (commissioned by Collective Gallery, Edinburgh)
-* 2012 _Capitol Complex_ commission for the exhibition _To the moon via the beach_, Amphitheatre of Arles, Provence (commissioned by LUMA Foundation)
-
 ## Prizes and Awards
 * 2014 _Turner Prize_ (shortlisted)
 * 2012 _Hugo Boss Prize_ (shortlisted)
@@ -31,12 +18,13 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 
 ## Monograph publications
 * 2013 _Capitol Complex / Ulterior Vistas_ (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
-* 2011 _Tris Vonna-Michell_ (book), published by JRP | Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
-* 2009 _Finding Chopin Endnotes_ (book), published by Jeu de Paume, Paris
-* 2009 _Monumental Detours / Insignificant Fixtures_ (12 inch vinyl), published by GAMEC Bergamo and Kunsthalle Zürich
+* 2011 _Tris Vonna-Michell_ (book), published by JRP \| Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
+* 2009 _Finding Chopin: Endnotes_ (book), published by Jeu de Paume, Paris
+* 2009 _Monumental Detours / Insignificant Fixtures_ (12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich
 * 2007 _Tall tales and short stories_ (7 inch vinyl), published by Witte de With, Rotterdam
 
 ## Solo Exhibitions
+- 2016 _Register_, T293, Rome
 - 2015 _Wasteful Illuminations: Distracted Listening_, Jan Mot, Brussels
 - 2015 _Capitol Complex_, Appleton Square, Lisbon
 - 2015 _Tris Vonna-Michell_, Overduin & Co., Los Angeles
@@ -59,24 +47,28 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2009 _Tris Vonna-Michell_, Tensta Konsthall, Stockholm
 - 2009 _Auto-Tracking: Ongoing Configurations_, Jan Mot, Brussels
 - 2009 _Tris Vonna-Michell_, X Initiative, New York
-- 2009 _Auto-Tracking-Auto-Tracking_, Kunsthalle Zurich, Zurich
+- 2009 _Auto-Tracking-Auto-Tracking_, Kunsthalle Zürich, Zürich
 - 2009 _Studio A: Monumental Detours / Insignificant Fixtures_, GAMeC, Bergamo
 - 2008 _Tris Vonna-Michell_, Cabinet Gallery, London
-- 2008 _Auto-Tracking_, Kunsthalle Zurich, Zurich
+- 2008 _Auto-Tracking_, Kunsthalle Zürich, Zürich
 - 2008 _The Trades of Others_, T293, Naples
 - 2007 _Tall Tales and Short Stories_, Cubitt, London
+- 2007 _Seizure_, Milliken Gallery, Stockholm
 - 2007 _Puzzlers_, Kunstverein Braunschweig Cuboid, Braunschweig
 - 2007 _Tris Vonna-Michell_, Witte de With, Rotterdam
 - 2006 _Faire un effort_, Palais des Beaux-Arts, Brussels
 - 2006 _Down the Rabbit-Hole_, Milliken Gallery, Stockholm
 
 ## Group Exhibitions and Performances
+- 2016 _Outwardly a Rectangular Plain Building, Inside Is Composed of Large Black and White Squares_, MUMOK, Vienna (screening/talk)
 - 2016 _Par tibi, Roma, nihil_, Palatino archeological area, Rome
 - 2016 _VI x VI Positionen zur Zukunft der Fotografie_, Landesgalerie Linz, Linz
 - 2016 _... und eine Welt noch_, Kunsthaus Hamburg, Hamburg
 - 2016 _Poésie Balistique_, La Verrière - Hermès Foundation, Brussels
 - 2016 _This Is Your Replacement_, Sies + Höhe, Dusseldorf
 - 2016 _New-Self-Portrait-Paradox_, MINI/Goethe-Institut Curatorial Residencies Ludlow 38, New York
+- 2015 _No Song to Sing_, Adn_Platform, Barcelona
+- 2015 _In Process_, FIAC, Paris (screening/talk)
 - 2015 _A story within a story_, 8th Göteborg International Biennial for Contemporary Art (GIBCA)
 - 2015 _The day will come when photography revises_, Triennial of Photography, Kunstverein in Hamburg
 - 2015 _Digital Voices_, Oxford University Library and Language Centre, Oxford
@@ -85,11 +77,11 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2014 _T293-in-residence_, Sadie Coles HQ, London
 - 2014 _Un Nouveau Festival_, Centre Pompidou, Paris
 - 2014 _Return Journey_, MOSTYN, Wales
-- 2013 _The Story Behind_, NoguerasBlanchard, Barcelona
+- 2013 _The Story Behind_, Nogueras Blanchard, Barcelona
 - 2013 _Lecture-Performance: New Artistic Formats, Places, Practices and Behaviours_, MUSAC - Museo de Arte Contemporáneo de Castilla y León, León
 - 2013 _Unrest of Form. Imagining the Political Subject_, Secession, Vienna
 - 2013 _I knOw yoU_, IMMA – Irish Museum of Modern Art, Dublin
-- 2013 _The Butterfly Image_, Mudam, Luxembourg
+- 2013 _The Butterfly Image_, Mudam Musee d’Art Moderne Grand-Due Jean, Luxembourg
 - 2013 _Only here_, Art and Exhibition Hall of the Federal Republic of Germany, Bonn
 - 2012 _Reactivation_, 9th Shanghai Biennial, Shanghai
 - 2012 _CARA DOMANI opere dalla Collezione Ernesto Esposito_, MAMbo, Bologna
@@ -107,7 +99,7 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2011 _Fotofestival 4_, Mannheim, Ludwigshafen, Heidelberg
 - 2011 _Folk Variations_, Radar, Loughborough (performance)
 - 2011 _The Other Tradition_, Wiels, Brussels
-- 2011 _La Casa Encendida, Madrid (performance)
+- 2011 _La Casa Encendida_, Madrid (performance)
 - 2011 _Subtext Part II_, Un Projects, Melbourne
 - 2011 _British Art Show 7: In the Days of the Comet_, touring; Nottingham Contemporary, Hayward Gallery, London, Glasgow Centre for Contemporary Art, and Plymouth Arts Centre
 - 2010 _New Frankfurt Internationals_, Frankfurter Kunstverein, Frankfurt
@@ -118,7 +110,6 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2010 _Performance_, Museo Marino Marini, Florence (performance)
 - 2010 _Balustrade_, Julia Stoschek Foundation, Dusseldorf (performance)
 - 2010 _Haunted: Contemporary Photography/Video/Performance_, Guggenheim Museum, New York (performance)
-- 2010 _Finding Chopin_, performance Witte de With, Center for Contemporary Art, Rotterdam (performance)
 - 2010 _NineteenEightyFour_, Austrian Cultural Forum, New York
 - 2010 _ACT VII: Of Facts and Fables_, Witte de With, Center for Contemporary Art, Rotterdam
 - 2010 _Leipzig Calendar Works_, Project Kaufhaus Joske, Leipzig (performance)
@@ -131,7 +122,6 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2009 _Spatial Works_, Färgfabriken, Stockholm
 - 2009 _Critical applause 3: Tris Vonna-Michell_, CCA, Glasgow (performance)
 - 2009 _Finding Chopin_, Hamburger Kunsthalle, Hamburg
-- 2009 _Art Cologne / Open Space' (with Cabinet), London
 - 2009 _The Generational: Younger than Jesus_, New Museum, New York
 - 2009 _Just in the dark/Solo al buio_, Mercati di Traiano, Rome
 - 2009 _The Front Room_, Contemporary Art Museum, Saint Louis
@@ -149,9 +139,9 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2008 _Ars viva 08/09. Inszenierung / Mise en scene_, Museum im Kulturspeicher, Würzburg
 - 2008 _Bending the Word / MATRIX 226_, BAM/PFA - UC Berkeley Art Museum, Berkeley
 - 2008 _Time Crevasse_, Yokohama Triennial 2008, Yokohama
-- 2008 _ICA:60 Past, Present and Future_, performance at ICA - Institute of Contemporary Arts, London
+- 2008 _ICA: 60 Past, Present and Future_, performance at ICA, London
 - 2008 _Fia Backstrom: That social space between speaking and meaning_, White Columns, New York (performance)
-- 2008 _The Store-, Tulips & Roses, Vilnius
+- 2008 _The Store_, Tulips & Roses, Vilnius
 - 2008 _Experiment Marathon Reykjavik_, Reykjavik Art Museum, Reykjavik
 - 2008 _Oral Culture_, performance at Jan Mot, Brussels (performance)
 - 2008 _Tate Triennial 2009 Prologue 1_, Tate Britain, London (performance)
@@ -167,6 +157,19 @@ In 2010 together with Diana Kaur he founded Mount Analogue, a publishing space, 
 - 2007 _The Present Order_, Museum de Hallen, Haarlem
 - 2007 _The Moment You Realise You Are Lost_, Johann Konig, Berlin
 - 2007 _Köln Show2_, European Kunsthalle, Cologne
+
+## Education
+* 2005-2007 _Städel Schule_, Frankfurt-am-Main
+* 2002-2005 _Glasgow School of Arts_, Glasgow
+* 2001-2002 _Falmouth College of Arts_, Falmouth
+
+## Permanent Commissions
+* 2016 _audio poems: distracted listening_, sound and photographic installation (commissioned by Statens Konstråd)
+* 2013 _Tiles & Tides_, reception desk commission for Focal Point Gallery, Southend-on-Sea (commissioned by Focal Point Gallery, Southend-on-Sea) [.pdf]({{site.baseurl}}/assets/pdf/TrisVM-text-on-FPG-reception-desk-commission.pdf)
+
+## Site-specific Sound Commissions
+* 2014 _The Artist and The Gravedigger: after D.O. Hill_, commission for _Observers' Walks_ sound work series (commissioned by Collective Gallery, Edinburgh)
+* 2012 _Capitol Complex_ commission for the exhibition _To the moon via the beach_, Amphitheatre of Arles, Provence (commissioned by LUMA Foundation)
 
 ## Residencies
 - 2014 _Darling Foundry_, Montreal
