@@ -1,12 +1,12 @@
 ---
-layout: category
+layout: about
 published: true
 ---
 
 <div class="works">
-  <h1>Wasteful Illuminations, 2008-2016</h1>
+  <h1>Ulterior Vistas, 2012-2014</h1>
   <ul>
-    {% for post in site.categories.wasteful-illuminations %}
+    {% for post in site.categories.ulterior-vistas %}
     {% if post.url %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}

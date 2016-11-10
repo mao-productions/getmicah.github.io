@@ -1,12 +1,12 @@
 ---
-layout: category
+layout: about
 published: true
 ---
 
 <div class="works">
-  <h1>Capitol Complex, 2012-2015</h1>
+  <h1>hahn/huhn, 2003-2016</h1>
   <ul>
-    {% for post in site.categories.capitol-complex %}
+    {% for post in site.categories.hahn-huhn %}
     {% if post.url %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endif %}
