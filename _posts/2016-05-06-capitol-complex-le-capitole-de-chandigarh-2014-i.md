@@ -5,7 +5,7 @@ category: capitol-complex
 published: true
 ---
 
-<iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 Extract from _Capitol Complex / Le Capitole de Chandigarh_<br/>
 16mm film transferred to HD video, 2014

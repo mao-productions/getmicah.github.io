@@ -5,7 +5,7 @@ category: finding-chopin
 published: true
 ---
 
-<iframe src="https://player.vimeo.com/video/187694255" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/187694255" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 16mm film transferred to HD video, 2015<br/>
 Documentation of _Finding Chopin: Dans l'Essex_ performed at Tate Britain, London, on 29 November 2014
 
