@@ -3,55 +3,55 @@ layout: about
 published: true
 
 monographs:
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2009-82.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-83.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-84.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-85.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-89.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-90.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-91.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-93.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-68.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-70.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-71.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-72.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-73.jpg
-    title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-74.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-77.jpg
     title: Monograph - Tris Vonna-Michell
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-76.jpg
     title: Monograph - Tris Vonna-Michell
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-77.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-74.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-73.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-72.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-71.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-70.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-68.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-93.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-91.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-90.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-89.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-85.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-84.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-83.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2009-82.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
+    title: Monograph - Tris Vonna-Michell
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
+    title: Monograph - Tris Vonna-Michell          
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
     title: Monograph - Tris Vonna-Michell
 ---
 
