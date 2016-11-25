@@ -12,19 +12,19 @@ monograph-3:
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
 
 publications:
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2015-45.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2015-44.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-81.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-80.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-79.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-67.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-66.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-65.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-64.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-58.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-40.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-39.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2014-37.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2015-45.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2015-44.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-81.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-80.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-79.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-67.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-66.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-65.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-64.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-58.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-40.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-39.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-publications-2014-37.jpg
 ---
 
 **Rhythm of the Interval. Projection Circulation and Fragmentation of Images and Words in Tris Vonna-Michell’s Art practice by Lilian Haberer (2015)**<br/>
