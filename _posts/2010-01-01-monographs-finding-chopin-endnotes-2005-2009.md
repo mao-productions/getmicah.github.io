@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRIS VONNA-MICHELL'
+title: 'FINDING CHOPIN ENDNOTES, 2005-2009'
 category: monographs
 published: true
 
