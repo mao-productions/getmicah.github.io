@@ -2,15 +2,6 @@
 layout: about
 published: true
 
-monograph-3:  
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2009-82.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
-
 publications:
   - image_path: /assets/publications/TrisVonnaMichell-publications-2015-45.jpg
   - image_path: /assets/publications/TrisVonnaMichell-publications-2015-44.jpg
@@ -117,14 +108,6 @@ Jeu de Paume, Paris
       {% endif %}
     {% endfor %}
 </ul>
-
-
-## Monographs
-<div class="popup-gallery">
-  {% for image in page.monograph-3 %}
-    <a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="200" height="134" /></a>
-  {% endfor %}
-</div>
 
 ## Publications
 
