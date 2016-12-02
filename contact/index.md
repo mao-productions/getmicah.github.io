@@ -2,7 +2,6 @@
 layout: about
 published: true
 ---
-
 ## Contact
 
 <br/>
