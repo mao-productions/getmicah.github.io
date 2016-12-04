@@ -12,7 +12,8 @@ html {
 	background-size: cover;
 }
 .header h1 {
-	font-family: 'Pragati Narrow', 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif;
+	// 'Pragati Narrow',
 }
 body {
 	color: $color-black;
@@ -102,13 +103,14 @@ ul {
 .works {
 	padding-bottom: 30px;
 	h2 {
-		font-size: 1.1em;
-		font-weight: 700;
+		font-size: 1.2em;
+		font-weight: 400;
 		margin-top: 25px;
 		margin-bottom: 5px;
 	}
-	ul {
-		margin-top: 20px;
+	li {
+		margin-left: 0px;
+		padding-left: 0px;
 	}
 }
 
@@ -136,8 +138,7 @@ ul {
 	}
 	&__date {
 		p {
-			font-size: 1em;
-			font-style: italic;
+			font-size: 1.2em;
 		}
 	}
 	&__meta {
@@ -239,13 +240,12 @@ ul {
 		// margin-top: 20px;
 		h1 {
 			font-size: 1.2em;
-			font-style: italic;
 			margin-top: 30px;
 			margin-bottom: 5px;
 		}
     h2 {
-			font-size: 1.1em;
-			font-weight: 700;
+			font-size: 1.2em;
+			font-weight: 400;
 			margin-top: 25px;
 			margin-bottom: 5px;
 		}

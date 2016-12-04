@@ -4,7 +4,6 @@ published: true
 ---
 ## Contact
 
-<br/>
 tris@mountanalogue.org
 
 Mount Analogue<br/>

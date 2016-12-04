@@ -7,14 +7,12 @@ published: true
 monograph-2:
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-83.jpg
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-84.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-85.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-89.jpg
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-90.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-91.jpg
   - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-93.jpg
+  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
 ---
 
 <div class="popup-gallery"><br/>
