@@ -5,9 +5,15 @@ category: capitol-complex
 published: true
 ---
 
-<div class="embed-container"><iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+![Tris Vonna-Michell - Capitol Complex / Le Capitole de Chandigarh, 2014]({{site.baseurl}}/assets/img/0509-capitol-complex-le-capitole-de-chandigarh-2014.jpg)
+Installation at VOX, Montreal, 7 February - 12 April 2014 (photo by Guy L'Heureux)
 
-Extract from _Capitol Complex / Le Capitole de Chandigarh_<br/>
+![Tris Vonna-Michell - Capitol Complex / Le Capitole de Chandigarh, 2014]({{site.baseurl}}/assets/img/0510-capitol-complex-le-capitole-de-chandigarh-2014.jpg)
+Installation at VOX, Montreal, 7 February - 12 April 2014 (photo by Guy L'Heureux)
+
+<div class="embed-container" style="margin-top:25px;"><iframe src="https://player.vimeo.com/video/109116513?color=ffffff&title=0&byline=0&portrait=0" width="815" height="458" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+<br/>Extract from Capitol Complex / Le Capitole de Chandigarh<br/>
 16mm film transferred to HD video, 2014
 
 

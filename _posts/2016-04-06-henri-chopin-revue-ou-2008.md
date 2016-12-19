@@ -7,7 +7,7 @@ published: true
 
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/92358879?color=ffffff&title=0&byline=0&portrait=0" width="815" height="611" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-Digital video, 2008<br/>
+<br/>Digital video, 2008<br/>
 Director & Producer: Tris Vonna-Michell
 
 Video documentation of Henri Chopin´s collection of Revue OU publications. Filmed at Cubitt, London, in conjunction with the exhibition, Henri Chopin: Three Minutes, 10 October - 9 November 2008, curated by Bart van der Heide, Caterina Riva and Tris Vonna-Michell.

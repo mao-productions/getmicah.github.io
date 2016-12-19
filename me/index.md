@@ -6,7 +6,7 @@ published: true
 ## Biography
 Lives and works in Stockholm. He stages installations and performs narrative structures, using spoken word, sound compositions, film and photography. Through live performances and installations, Vonna-Michell creates circuitous, multilayered narratives, characterized by fragments of information, detours, and repetitions.
 
-In 2010 together with Diana Kaur he founded <a href="http://www.mountanalogue.org" target="blank">Mount Analogue</a>, a publishing space, curatorial and editorial agency and analogue studio.
+In 2010 together with Diana Kaur he founded MOUNT ANALOGUE (<a href="http://www.mountanalogue.org" target="blank">mountanalogue.org</a>), a publishing space, curatorial and editorial agency and analogue studio.
 
 ## Prizes and Awards
 * 2014 _Turner Prize_ (shortlisted)
@@ -15,9 +15,9 @@ In 2010 together with Diana Kaur he founded <a href="http://www.mountanalogue.or
 * 2008 _Ars Viva Prize_
 
 ## Monograph Publications
-* 2013 _Capitol Complex / Ulterior Vistas_ (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
-* 2011 _Tris Vonna-Michell_ (book), published by JRP \| Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
-* 2009 _Finding Chopin: Endnotes_ (book), published by Jeu de Paume, Paris
+* 2013 <em><a href="http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/" target="blank">Capitol Complex / Ulterior Vistas</a></em> (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm
+* 2011 <em><a href="http://www.cornerhousepublications.org/publications/tris-vonna-michell/" target="blank">Tris Vonna-Michell</a></em> (book), published by JRP \| Ringier, together with with Fondazione Galleria Civica—Centro di Ricerca sulla Contemporaneità di Trento, GAMeC—Galleria d'Arte Moderna e Contemporanea di Bergamo, Halle für Kunst Lüneburg e.V., and Kunsthalle Zürich
+* 2009 <em><a href="https://www.amazon.co.uk/Finding-Chopin-Endnotes-2005-2009-Vonna-Michell/dp/291570418X" target="blank">Finding Chopin: Endnotes</a></em> (book), published by Jeu de Paume, Paris
 * 2009 _Monumental Detours / Insignificant Fixtures_ (12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich
 * 2007 _Tall tales and short stories_ (7 inch vinyl), published by Witte de With, Rotterdam
 
