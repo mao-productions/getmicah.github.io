@@ -1,14 +1,26 @@
 ---
-layout: about
+layout: gallery
 published: true
 
 records:
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
+  - url: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
+    size: 2000x1335
+    title: WdW 7 inch
+  - url: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
+    size: 2000x1335
+    title: WdW 7 inch
+  - url: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
+    size: 2000x1647
+    title: WdW 7 inch
+  - url: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
+    size: 2000x1335
+    title: WdW 7 inch
+  - url: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
+    size: 2000x1335
+    title: WdW 7 inch
+  - url: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
+    size: 2000x1335
+    title: WdW 7 inch
 ---
 ## Records
 
@@ -22,7 +34,10 @@ records:
 
 <div class="popup-gallery">
   {% for image in page.records %}
-    <a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="200" height="134" /></a>
+    <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.url}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
   {% endfor %}
 </div>
 

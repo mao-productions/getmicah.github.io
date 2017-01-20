@@ -1,34 +1,71 @@
 ---
-layout: about
+layout: gallery
 published: true
 
 monograph-1:
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-68.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-76.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-72.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-77.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-73.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-74.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-71.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2013-70.jpg
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-68.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-76.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-72.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-77.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-73.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-74.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-71.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-70.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
 
 monograph-2:
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-83.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-84.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-90.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-91.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-93.jpg
-  - image_path: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-83.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-84.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-90.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-86.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-88.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-91.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-93.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
+  - url: /assets/publications/TrisVonnaMichell-monographs-2011-87.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell
 ---
-<div class="popup-gallery"><br/>
+
+<div class="popup-gallery">
   {% for image in page.monograph-1 %}
-    <a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="200" height="134" /></a>
+    <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.url}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
   {% endfor %}
 </div>
 
-<br/>**[Capitoc Complex / Ulterior Vistas](http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/)** is constructed around the two works, Capitol Complex (2012-2015) and Ulterior Vistas (2012-2014), both of which are encapsulated on a ten-inch vinyl record. The spoken-word compositions are enclosed within a gatefold design and accompanied by the Capitol Complex manuscript as a booklet insert and a bound series of Ulterior Vistas photographic montages.
+<div></div>
+**[Capitol Complex / Ulterior Vistas](http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/)** is constructed around the two works, Capitol Complex (2012-2015) and Ulterior Vistas (2012-2014), both of which are encapsulated on a ten-inch vinyl record. The spoken-word compositions are enclosed within a gatefold design and accompanied by the Capitol Complex manuscript as a booklet insert and a bound series of Ulterior Vistas photographic montages.
 
 The Capitol Complex (Side A) recording pans between improvised spoken word and musical composition, evolving around a manuscript set in the Indian city of Chandigarh, which serves as an underlining blueprint for the work. Traveller, the protagonist, extends his leisurely strolls to navigating the city by night in order to induce an experience of greater intensity and anxiety of its urban architecture. After his nocturnal explorations in the city’s single-zone sectors he starts to grow weary and changes his course from architectural appreciation to searching for crevices and enclosures to reflect and observe. But urban fixtures of obstruction, surveillance and derailment direct his passages, until a shift in perception occurs.
 
@@ -49,13 +86,16 @@ Published by Focal Point Gallery and Mount Analogue, 2013<br/>
 Distributed by Cornerhouse<br/>
 [ISBN 978-1-907185-14-4](http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/)
 
-<div class="popup-gallery"><br/>
+<div class="popup-gallery" style="margin-top:20px;">
   {% for image in page.monograph-2 %}
-    <a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="200" height="134" /></a>
+    <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.url}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
   {% endfor %}
 </div>
 
-<br/>**[Tris Vonna-Michell](http://www.cornerhousepublications.org/publications/tris-vonna-michell/)** is a two-volume publication in which the stories and the visual material marks a continuation and implementation of his artistic practice through the medium of an artist’s book. Behind an identical cover, the seemingly same is presented in two variations that were developed through performative improvisations over earlier text versions, and repositioning of images and inserts.
+**[Tris Vonna-Michell](http://www.cornerhousepublications.org/publications/tris-vonna-michell/)** is a two-volume publication in which the stories and the visual material marks a continuation and implementation of his artistic practice through the medium of an artist’s book. Behind an identical cover, the seemingly same is presented in two variations that were developed through performative improvisations over earlier text versions, and repositioning of images and inserts.
 
 The two variations were pendently constructed; book I began in November 2009 at Halle für Kunst in Lüneburg, in which several chapters, texts and images were printed on a Heidelberg GTO printing press on a daily basis during the exhibition ”Capstans”. In 2010 book II began as a revisitation and expansion of the first variation, in which the previous narratives, images and inserts were reconstructed.
 
@@ -65,7 +105,12 @@ Published by JRP|Ringier, together with with Fondazione Galleria Civica—Centro
 Printed in Germany<br/>
 [ISBN 978-3-03764-170-5](http://www.cornerhousepublications.org/publications/tris-vonna-michell/)
 
-![Tris Vonna Michell - Finding Chopin: Endnotes, 2005–2009]({{site.baseurl}}/assets//publications/TrisVonnaMichell-monographs-2009-82.jpg)
+<div class="popup-gallery" style="margin-top:20px;">
+    <a href="/assets/publications/TrisVonnaMichell-monographs-2009-82.jpg" data-size="1782x2000" data-author="Tris Vonna-Michell">
+      <img src="/assets/publications/TrisVonnaMichell-monographs-2009-82.jpg" alt="" />
+      <figure>Finding Chopin: Endnotes, 2005–2009</figure>
+    </a>
+</div>
 
 Accompanied the exhibition:<br/>
 **[Finding Chopin: Endnotes, 2005–2009](https://www.amazon.co.uk/Finding-Chopin-Endnotes-2005-2009-Vonna-Michell/dp/291570418X)**<br/>
@@ -75,25 +120,3 @@ Jeu de Paume, Paris
 Published by Jeu de Paume, 2009<br/>
 Distributed by Jeu de Paume<br/>
 [ISBN 978-2-91570-418-1](https://www.amazon.co.uk/Finding-Chopin-Endnotes-2005-2009-Vonna-Michell/dp/291570418X)
-
-<script type="text/javascript">
-  $(document).ready(function() {
-    $('.popup-gallery').magnificPopup({
-      delegate: 'a',
-      type: 'image',
-      tLoading: 'Loading image #%curr%...',
-      mainClass: 'mfp-img-mobile',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
-        titleSrc: function(item) {
-          return 'Publications' + '<small>Tris Vonna-Michell</small>';
-        }
-      }
-    });
-  });
-</script>

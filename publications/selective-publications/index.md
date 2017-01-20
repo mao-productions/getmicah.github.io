@@ -1,64 +1,177 @@
 ---
-layout: about
+layout: gallery
 published: true
 
 selective-publications:
   - image_path: /assets/publications/TrisVonnaMichell-publications-2015-44.jpg
+    size: 2000x1335
+    title: A story within a story within a story
   - image_path: /assets/publications/TrisVonnaMichell-publications-2015-45.jpg
+    size: 2000x1335
+    title: A story within a story within a story
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-79.jpg
+    size: 2000x1335
+    title: Turner Prize 2014
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-80.jpg
+    size: 2000x1335
+    title: Turner Prize 2014
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-81.jpg
+    size: 2000x1335
+    title: Turner Prize 2014
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-64.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-67.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-65.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-37.jpg
+    size: 2000x1335
+    title: The moderna exhibition
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-39.jpg
+    size: 2000x1335
+    title: The moderna exhibition
   - image_path: /assets/publications/TrisVonnaMichell-publications-2014-40.jpg
+    size: 2000x1335
+    title: The moderna exhibition
   - image_path: /assets/publications/TrisVonnaMichell-publications-2013-76.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell, Postscript I (Berlin)
   - image_path: /assets/publications/TrisVonnaMichell-publications-2013-75.jpg
+    size: 2000x1335
+    title: Tris Vonna-Michell, Postscript I (Berlin)
   - image_path: /assets/publications/TrisVonnaMichell-publications-2013-58.jpg
+    size: 2000x1335
+    title: L'image papillon
   - image_path: /assets/publications/TrisVonnaMichell-publications-2013-59.jpg
+    size: 2000x1335
+    title: L'image papillon
   - image_path: /assets/publications/TrisVonnaMichell-publications-2013-60.jpg
+    size: 2000x1335
+    title: L'image papillon
   - image_path: /assets/publications/TrisVonnaMichell-publications-2012-11.jpg
+    size: 2000x1335
+    title: The Hugo Boss Prize 2012
   - image_path: /assets/publications/TrisVonnaMichell-publications-2012-12.jpg
+    size: 2000x1335
+    title: The Hugo Boss Prize 2012
   - image_path: /assets/publications/TrisVonnaMichell-publications-2012-13.jpg
+    size: 2000x1335
+    title: The Hugo Boss Prize 2012
   - image_path: /assets/publications/TrisVonnaMichell-publications-2012-14.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2012-15.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2011-43.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2011-42.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2011-31.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2011-27.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2011-23.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2010-72.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2010-74.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2010-73.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-94.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-95.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-82.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-89.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-83.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-78.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-81.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-80.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-79.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-09.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-07.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2009-08.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-19.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-21.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-18.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-20.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-16.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-17.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2008-10.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2006-96.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2006-99.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2006-98.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2006-97.jpg
+    size: 2000x1335
+    title: Selective Publications
   - image_path: /assets/publications/TrisVonnaMichell-publications-2005-00.jpg
+    size: 2000x1335
+    title: Searching for Sebald
   - image_path: /assets/publications/TrisVonnaMichell-publications-2005-04.jpg
+    size: 2000x1335
+    title: Searching for Sebald
   - image_path: /assets/publications/TrisVonnaMichell-publications-2005-05.jpg
+    size: 2000x1335
+    title: Searching for Sebald
   - image_path: /assets/publications/TrisVonnaMichell-publications-2005-01.jpg
+    size: 2000x1335
+    title: Searching for Sebald
+
 ---
 ## Selective Publications
 
@@ -98,7 +211,10 @@ Jeu de Paume, Paris
 
 <div class="popup-gallery">
   {% for image in page.selective-publications %}
-    <a href="{{ image.image_path }}"><img src="{{ image.image_path }}" alt="{{ image.title}}" width="200" height="134" /></a>
+    <a href="{{image.image_path}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.image_path}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
   {% endfor %}
 </div>
 
