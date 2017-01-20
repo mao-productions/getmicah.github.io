@@ -24,7 +24,7 @@ records:
 ---
 ## Records
 
-**[Capitoc Complex / Ulterior Vistas](http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/)**
+<strong><a href="http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/" target="blank">Capitoc Complex / Ulterior Vistas</a></strong>
 
 **GAMeC 12 inch**<br/>
 (12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich
