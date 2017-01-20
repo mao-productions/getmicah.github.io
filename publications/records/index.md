@@ -2,38 +2,50 @@
 layout: gallery
 published: true
 
-records:
+7inch:
   - url: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
     size: 2000x1335
-    title: WdW 7 inch
+    title: Tall Tales and Short Stories (7 inch vinyl)
   - url: /assets/publications/TrisVonnaMichell-monographs-2007-34.jpg
     size: 2000x1335
-    title: WdW 7 inch
+    title: Tall Tales and Short Stories (7 inch vinyl)
   - url: /assets/publications/TrisVonnaMichell-monographs-2007-35.jpg
     size: 2000x1647
-    title: WdW 7 inch
+    title: Tall Tales and Short Stories (7 inch vinyl)
+
+12inch:    
   - url: /assets/publications/TrisVonnaMichell-monographs-2010-60.jpg
     size: 2000x1335
-    title: WdW 7 inch
+    title: Monumental Detours / Insignificant Fixtures (12 inch vinyl)
   - url: /assets/publications/TrisVonnaMichell-monographs-2010-61.jpg
     size: 2000x1335
-    title: WdW 7 inch
+    title: Monumental Detours / Insignificant Fixtures (12 inch vinyl)
   - url: /assets/publications/TrisVonnaMichell-monographs-2010-62.jpg
     size: 2000x1335
-    title: WdW 7 inch
+    title: Monumental Detours / Insignificant Fixtures (12 inch vinyl)
 ---
 ## Records
 
-<strong><a href="http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/" target="blank">Capitoc Complex / Ulterior Vistas</a></strong>
+**[Capitol Complex / Ulterior Vistas]({{site.baseurl}}/publications/monographs/)**<br/>
+(book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm, 2013
 
 **GAMeC 12 inch**<br/>
-(12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich
+Monumental Detours / Insignificant Fixtures (12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich, 2009
+
+<div class="popup-gallery" style="margin-bottom:10px;">
+  {% for image in page.12inch %}
+    <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.url}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
+  {% endfor %}
+</div>
 
 **WdW 7 inch**<br/>
-(7 inch vinyl), published by Witte de With, Rotterdam
+Tall Tales and Short Stories (7 inch vinyl), published by Witte de With, Rotterdam, 2007
 
 <div class="popup-gallery">
-  {% for image in page.records %}
+  {% for image in page.7inch %}
     <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
       <img src="{{image.url}}" alt="" />
       <figure>{{image.title}}</figure>

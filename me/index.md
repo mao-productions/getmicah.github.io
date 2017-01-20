@@ -6,7 +6,7 @@ published: true
 ## Biography
 Lives and works in Stockholm. He stages installations and performs narrative structures, using spoken word, sound compositions, film and photography. Through live performances and installations, Vonna-Michell creates circuitous, multilayered narratives, characterized by fragments of information, detours, and repetitions.
 
-In 2010 together with Diana Kaur he founded MOUNT ANALOGUE (<a href="http://www.mountanalogue.org" target="blank">mountanalogue.org</a>), a publishing space, curatorial and editorial agency and analogue studio.
+In 2010 together with Diana Kaur he founded <a href="http://www.mountanalogue.org" target="blank">Mount Analogue</a>, a publishing space, curatorial and editorial agency and analogue studio.
 
 ## Prizes and Awards
 * 2014 _Turner Prize_ (shortlisted)
