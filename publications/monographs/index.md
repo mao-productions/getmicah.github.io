@@ -54,7 +54,7 @@ monograph-2:
     size: 2000x1335
     title: Tris Vonna-Michell
 ---
-
+## Monographs
 <strong><a href="http://www.cornerhousepublications.org/publications/tris-vonna-michell-capitol-complex-ulterior-vistas/" target="blank">Capitol Complex / Ulterior Vistas</a></strong> is constructed around the two works, Capitol Complex (2012-2015) and Ulterior Vistas (2012-2014), both of which are encapsulated on a ten-inch vinyl record. The spoken-word compositions are enclosed within a gatefold design and accompanied by the Capitol Complex manuscript as a booklet insert and a bound series of Ulterior Vistas photographic montages.
 
 The Capitol Complex (Side A) recording pans between improvised spoken word and musical composition, evolving around a manuscript set in the Indian city of Chandigarh, which serves as an underlining blueprint for the work. Traveller, the protagonist, extends his leisurely strolls to navigating the city by night in order to induce an experience of greater intensity and anxiety of its urban architecture. After his nocturnal explorations in the city’s single-zone sectors he starts to grow weary and changes his course from architectural appreciation to searching for crevices and enclosures to reflect and observe. But urban fixtures of obstruction, surveillance and derailment direct his passages, until a shift in perception occurs.
@@ -104,8 +104,9 @@ Printed in Germany<br/>
   {% endfor %}
 </div>
 
-Accompanied the exhibition:<br/>
 <strong><a href="https://www.amazon.co.uk/Finding-Chopin-Endnotes-2005-2009-Vonna-Michell/dp/291570418X" target="blank">Finding Chopin: Endnotes, 2005–2009</a></strong><br/>
+Accompanied the exhibition:<br/>
+Finding Chopin: Endnotes, 2005–2009<br/>
 20 October 2009 - 17 January 2010<br/>
 Jeu de Paume, Paris
 

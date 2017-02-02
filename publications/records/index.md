@@ -2,6 +2,32 @@
 layout: gallery
 published: true
 
+monograph-1:
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-68.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-76.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-72.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-77.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-73.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-74.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-71.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+  - url: /assets/publications/TrisVonnaMichell-monographs-2013-70.jpg
+    size: 2000x1335
+    title: Capitol Complex / Ulterior Vistas
+
 7inch:
   - url: /assets/publications/TrisVonnaMichell-monographs-2007-33.jpg
     size: 2000x1335
@@ -29,8 +55,17 @@ published: true
 **[Capitol Complex / Ulterior Vistas]({{site.baseurl}}/publications/monographs/)**<br/>
 (book and 10 inch vinyl), published by Focal Point Gallery, Southend-on-Sea and Mount Analogue, Stockholm, 2013
 
-**GAMeC 12 inch**<br/>
-Monumental Detours / Insignificant Fixtures (12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich, 2009
+<div class="popup-gallery">
+  {% for image in page.monograph-1 %}
+    <a href="{{image.url}}" data-size="{{image.size}}" data-author="Tris Vonna-Michell">
+      <img src="{{image.url}}" alt="" />
+      <figure>{{image.title}}</figure>
+    </a>
+  {% endfor %}
+</div>
+
+**Monumental Detours / Insignificant Fixtures**<br/>
+(12 inch vinyl), published by GAMeC Bergamo and Kunsthalle Zürich, 2009
 
 <div class="popup-gallery" style="margin-bottom:10px;">
   {% for image in page.12inch %}
@@ -41,8 +76,8 @@ Monumental Detours / Insignificant Fixtures (12 inch vinyl), published by GAMeC 
   {% endfor %}
 </div>
 
-**WdW 7 inch**<br/>
-Tall Tales and Short Stories (7 inch vinyl), published by Witte de With, Rotterdam, 2007
+**Tall Tales and Short Stories**<br/>
+(7 inch vinyl), published by Witte de With, Rotterdam, 2007
 
 <div class="popup-gallery">
   {% for image in page.7inch %}
